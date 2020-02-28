@@ -1,7 +1,7 @@
 require "pry"
 
 def reverse_each_word (str)
-  str.each do |i|
+  str.collect do |i|
     binding.pry
   end 
 end 
