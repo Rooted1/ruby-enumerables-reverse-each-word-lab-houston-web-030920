@@ -8,5 +8,6 @@ def reverse_each_word (str)
     new_arr << x.reverse
     
   end
+  new_arr.join(" ")
    binding.pry
 end 
