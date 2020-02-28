@@ -6,7 +6,7 @@ def reverse_each_word (str)
   
   split_str.each do |x|
     new_arr << x.reverse
-    binding.pry
+    
   end
-   
+   binding.pry
 end 
