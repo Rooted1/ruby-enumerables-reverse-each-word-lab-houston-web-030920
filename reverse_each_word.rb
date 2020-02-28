@@ -5,3 +5,4 @@ def reverse_each_word (str)
   #   binding.pry
   # end 
 end 
+clear
